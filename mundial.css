@@ -1,0 +1,163 @@
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+
+    font-family: Arial, sans-serif;
+    background-color: #424242;
+    color: #252424;
+   
+    margin: 700;
+    padding: 170px;
+
+
+}
+
+.container {
+    float:left;
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #ddcece;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(17, 17, 17, 0.1);
+    background: rgba(12, 12, 12, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    transform: translateZ(20px);
+
+    color: #ece2e2;
+    
+}
+
+
+.container1 {
+    float:left;
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #0c0b0b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(17, 17, 17, 0.1);
+    background: rgba(201, 197, 197, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    transform: translateZ(20px);
+
+
+}
+
+.container2 {
+    float:left;
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #424242;;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(17, 17, 17, 0.1);
+    background: rgba(228, 225, 225, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    transform: translateZ(20px);
+    background-color: #424242;
+    color: #252424;
+}
+
+
+.container3 {
+    float:left;
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #0c0b0b;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(17, 17, 17, 0.1);
+    background: rgba(201, 197, 197, 0.5);
+    padding: 20px;
+    border-radius: 10px;
+    transform: translateZ(20px);
+
+}
+
+.container4 {
+    margin-top: 30px; /* Puedes ajustar el valor según tus necesidades */
+    float:left;
+    max-width: 200px;
+    margin: 0 auto;
+    background-color: #ddcece;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(17, 17, 17, 0.1);
+    background: rgba(12, 12, 12, 0.5);
+    padding: 20px;
+    border-radius: 20px;
+    transform: translateZ(20px);
+
+    color: #ece2e2;
+}
+
+
+
+h1 {
+    margin-bottom: 1%;
+    margin-top: -20px; /* Puedes ajustar el valor según tus necesidades */
+}
+
+.match {
+    
+    margin-bottom: 1px;
+    text-align: center;
+    
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-bottom: 5px;
+    
+}
+
+input[type="text"] {
+    width: 100%;
+    padding: 2px;
+    border: 1px solid #5c5959;
+    border-radius: 2px;
+   
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-top: 10px;
+    float:right
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+
+p {
+   
+   
+    color: #c9b9b9;
+   
+
+}
+
+
+input[type="number"] {
+  
+    text-align: center;
+    font-family: Arial, sans-serif;
+    font-size: 30px;
+    font-weight: bold; 
+    width: 150px; /* o cualquier otro valor */
+    height: 30px; /* o cualquier otro valor */
+  }
